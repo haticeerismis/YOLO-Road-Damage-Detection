@@ -44,13 +44,13 @@ The following screenshots demonstrate YOLO-based crack and pothole detection per
 ##  System Architecture
 
 User Upload (Web Interface)  
-⬇  
+
 Flask Backend  
-⬇  
+
 YOLO Model Inference  
-⬇  
+ 
 Detection Results (Bounding Boxes)  
-⬇  
+
 Processed Image Displayed  
 
 ---
@@ -84,15 +84,15 @@ crack_pothole_detection/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2️⃣ Run the Application
+###  Run the Application
 
 ```bash
 python app.py
